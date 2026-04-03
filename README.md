@@ -1,2 +1,2 @@
-# An-lisis-de-Algoritmos
+# Anlisis-de-Algoritmos
 Repositorio para Análisis de Algoritmos
